@@ -8,7 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="exec_02" />
         <module name="deitel" />
+        <module name="exec_04" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="exec_4" target="17" />
+      <module name="seila" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
