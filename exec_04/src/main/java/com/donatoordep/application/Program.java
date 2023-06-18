@@ -13,7 +13,6 @@ public class Program {
                 .map(n -> new StringBuilder(n).reverse().toString())
                 .map(u -> Integer.parseInt(u, 2))
                 .forEach(System.out::println);
-
     }
 
 }

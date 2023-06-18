@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="exec_02" />
-        <module name="deitel" />
         <module name="exec_04" />
+        <module name="exec_05" />
+        <module name="deitel" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

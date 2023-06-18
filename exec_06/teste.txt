@@ -1,0 +1,6 @@
+Nome: Pedro
+Senha: 123
+Classe: Mago
+Nome: Lucas
+Senha: 1009905
+Classe: Guerreiro
